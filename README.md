@@ -126,4 +126,17 @@ https://bohubrihi.com/dashboard/
 ![Home](./images/pexels-nazila-azimzada-13919046.jpg)
 
 <!-- image control height and width -->
-<img src="./images/img2.jpg" height="300px" width="300px" title="Home Image"/>
+<img src="./images/img2.jpg" height="300px" width="300px" title="Home Image"/>  
+
+😉😉😉😉  
+
+<!-- Table -->
+
+### Table
+| Name | Email| ID |
+| ------ | -----| ---- |
+| Hasan | H@gmail.com | 777 |
+| Bithi Hasan | bithihasan7@gmail.com | 7 |
+
+
+
